@@ -1,4 +1,4 @@
-document.body.style.backgroundColor="#f01648";
+document.body.style.backgroundColor="#f5ced2";
 document.body.style.fontFamily="mono-space";
 const home=document.body.innerHTML=`<h1>Gas Refill Centre</h1><span id="base">
 <button id="home" style="background-color:#c1d6ab;padding:10px;border-radius:25px;margin:10px auto;">Home</button>
